@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6b6936c4-7f8e-46bc-8251-e334851a90e7",
+  "export_job_id": "b8afb04c-0b16-4e44-859e-d79c4a86e486",
   "id_short": 751224,
-  "published_at": "2026-04-15T19:12:21Z",
+  "published_at": "2026-04-19T19:22:15Z",
   "repo_name": "all-restaurants-in-milwaukee-waukesha-metro-wisconsin-us-sample-751224",
   "sample_asset_name": "beamstation_751224_restaurants-us-milwaukeewaukeshawi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/751224/beamstation_751224_restaurants-us-milwaukeewaukeshawi_SAMPLE_DIST.csv",
-  "sample_records": 326,
-  "sample_sha256": "2971689765156317942e85f66436a85c81385d50667ae493c6e677abba55cfc3",
-  "sample_size_bytes": 1171071,
-  "total_records": 3260
+  "sample_records": 321,
+  "sample_sha256": "a4eb0a7837d2017ebef70e391e8ddb911411bf4b18557e1721be4795505b8953",
+  "sample_size_bytes": 1155155,
+  "total_records": 3211
 }
